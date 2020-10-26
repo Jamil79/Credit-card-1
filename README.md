@@ -17,3 +17,9 @@ The main findings of the code can be found in the blog post on my site that I wi
 
 Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle site. Otherwise, feel free to use the code here as you would like.
+
+Here are the link to my github repo and to the blog post:
+
+https://github.com/Jamil79/Credit-card-1
+https://5f7845d7936e8.site123.me
+
